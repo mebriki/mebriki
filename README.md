@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ML projects 
 - 🌱 I’m currently learning Pytorch and JAX and advanced Maths
 - 👯 I’m looking to collaborate on any projects related to AI/ML for Healthcare!
-- 📫 How to reach me: visit my website (https://iaminebriki.tech) where you can find my contact
+- 📫 How to reach me: visit my website (iaminebriki.tech) where you can find my contact
 - ⚡ Fun fact: there is many facts not sure if they are so fuuny :p 
 <!--
 - 🤔 I’m looking for help with ...
