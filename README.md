@@ -15,4 +15,4 @@
 <!-- top langs: top languages used in public repos (fork excluded) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&layout=donut&theme=algolia&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 <!-- wakatime: coding time spent -->
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki)](https://github.com/anuraghazra/github-readme-stats)
