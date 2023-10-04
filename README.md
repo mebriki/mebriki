@@ -20,11 +20,11 @@
 
 <!-- GitHub Stats (Light Theme) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&show_icons=true&theme=shadow_blue&bg_color=00000000&hide_border=true#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&show_icons=true&theme=shadow_blue&bg_color=00000000&hide_border=true&rank_icon=percentile#gh-light-mode-only" />
 </a>
 <!-- GitHub Stats (Dark Theme) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&show_icons=true&theme=algolia&bg_color=00000000&hide_border=true#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&show_icons=true&theme=algolia&bg_color=00000000&hide_border=true&rank_icon=percentile#gh-dark-mode-only" />
 </a>
 
 <!-- top langs: top languages used in public repos (fork excluded) -->
@@ -35,6 +35,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&layout=compact&theme=algolia&bg_color=00000000&hide_border=true#gh-dark-mode-only" />
 </a>
 
+<!-- streak stats -->
+<a href="https://git.io/streak-stats#gh-light-mode-only">
+  <img align="center" src="https://streak-stats.demolab.com?user=iaminebriki&theme=shadow-blue&hide_border=true&background=00000000#gh-light-mode-only" alt="GitHub Streak" />
+</a>
+<a href="https://git.io/streak-stats#gh-dark-mode-only">
+  <img align="center" src="https://streak-stats.demolab.com?user=iaminebriki&theme=algolia&hide_border=true&background=00000000#gh-dark-mode-only" alt="GitHub Streak" />
+</a>
+
 <!-- wakatime: coding time spent -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&theme=shadow_blue&bg_color=00000000&hide_border=true#gh-light-mode-only" />
@@ -43,5 +51,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&theme=algolia&bg_color=00000000&hide_border=true#gh-dark-mode-only" />
 </a>
 
-<!-- streak stats -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iaminebriki&hide_border=true" alt="GitHub Streak" /></a>
+
