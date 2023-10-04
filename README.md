@@ -9,23 +9,15 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+<!-- Light Mode Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&show_icons=true&theme=shadow_blue&bg_color=00000000&hide_border=true#gh-light-mode-only" alt="GitHub Stats (Light Theme)" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iaminebriki&show_icons=true&theme=light&bg_color=00000000&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iaminebriki&show_icons=true&theme=dark&bg_color=00000000&hide_border=true)
-
-<script>
-  const prefersDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
-
-  const lightCard = document.querySelector('img[alt="GitHub Stats"][src*="theme=light"]');
-  const darkCard = document.querySelector('img[alt="GitHub Stats"][src*="theme=dark"]');
-
-  if (prefersDarkMode) {
-    lightCard.style.display = "none";
-  } else {
-    darkCard.style.display = "none";
-  }
-</script>
+<!-- Dark Mode Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&show_icons=true&theme=algolia&bg_color=00000000&hide_border=true#gh-dark-mode-only" alt="GitHub Stats (Dark Theme)" />
+</a>
 
 
 <!-- stats cards: light & dark 
