@@ -7,26 +7,29 @@
 - ⚡ Fun fact: there is many facts not sure if they are so fuuny :p 
 <!--
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ...  
+algolia 00AEFF
+github_dark 58A6FF
+ayu-mirage 73d0ff
 -->
 
 <div align="center">  
 <!-- Stats (Light) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&bg_color=00000000&theme=swift&show_icons=true&ring_color=f05237#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=00779A&bg_color=00000000&theme=swift&rank_icon=percentile&show_icons=true&ring_color=00779A#gh-light-mode-only" />
 </a>
 <!-- Stats (Dark) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&bg_color=00000000&theme=apprentice&show_icons=true&ring_color=ffffaf#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=61dafb&bg_color=00000000&theme=apprentice&rank_icon=percentile&show_icons=true&ring_color=61dafb#gh-dark-mode-only" />
 </a>
 
 <!-- streak stats (light) -->
 <a href="https://git.io/streak-stats#gh-light-mode-only">
-  <img src="https://streak-stats.demolab.com?user=iaminebriki&theme=swift&background=00000000#gh-light-mode-only" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iaminebriki&theme=swift&background=00000000&fire=00779A&currStreakNum=00779A&currStreakLabel=00779A#gh-light-mode-only" alt="GitHub Streak" />
 </a>
 <!-- streak stats (dark) -->
 <a href="https://git.io/streak-stats#gh-dark-mode-only">
-  <img src="https://streak-stats.demolab.com?user=iaminebriki&theme=apprentice&background=00000000#gh-dark-mode-only" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iaminebriki&theme=apprentice&background=00000000&fire=61DAFB&currStreakNum=61DAFB&currStreakLabel=61DAFB#gh-dark-mode-only" alt="GitHub Streak" />
 </a>
 </div>
 
