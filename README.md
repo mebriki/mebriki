@@ -13,11 +13,11 @@
 <div align="center">  
 <!-- Stats (Light) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&bg_color=00000000&theme=swift&show_icons=true#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&bg_color=00000000&theme=swift&show_icons=true&ring_color=f05237#gh-light-mode-only" />
 </a>
 <!-- Stats (Dark) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&bg_color=00000000&theme=apprentice&show_icons=true#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&bg_color=00000000&theme=apprentice&show_icons=true&ring_color=ffffaf#gh-dark-mode-only" />
 </a>
 
 <!-- streak stats (light) -->
@@ -33,19 +33,19 @@
 <div align="center">
 <!-- top langs (light) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&theme=swift&layout=compact&langs_count=10#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&hide_border=true&theme=swift&layout=compact&langs_count=10#gh-light-mode-only" />
 </a>
 <!-- top langs (dark)-->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&theme=apprentice&layout=compact&langs_count=10#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&hide_border=true&theme=apprentice&layout=compact&langs_count=10#gh-dark-mode-only" />
 </a>
 
 <!-- wakatime (light) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&bg_color=00000000&theme=swift&layout=compact&langs_count=10#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&bg_color=00000000&hide_border=true&theme=swift&layout=compact&langs_count=10#gh-light-mode-only" />
 </a>
 <!-- wakatime (dark) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&bg_color=00000000&theme=apprentice&layout=compact&langs_count=10#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&bg_color=00000000&hide_border=true&theme=apprentice&layout=compact&langs_count=10#gh-dark-mode-only" />
 </a>
 </div>
