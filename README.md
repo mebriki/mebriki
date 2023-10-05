@@ -38,7 +38,7 @@
 
 <!-- wakatime: coding time spent -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&theme=algolia&bg_color=00000000&hide_border=true#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&theme=algolia&text_color=434d58&bg_color=00000000&hide_border=true#gh-light-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&theme=algolia&bg_color=00000000&hide_border=true#gh-dark-mode-only" />
