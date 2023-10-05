@@ -22,10 +22,10 @@
 
 <!-- top langs: top languages used in public repos (fork excluded) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&layout=compact&title_color=2D632C&bg_color=00000000&hide_border=true#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&layout=compact&title_color=2D632C&text_color=000000&bg_color=00000000&hide_border=true#gh-light-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&layout=compact&title_color=4FB14E&bg_color=00000000&hide_border=true#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&layout=compact&title_color=4FB14E&text_color=ffffff&bg_color=00000000&hide_border=true#gh-dark-mode-only" />
 </a>
 
 <!-- streak stats -->
