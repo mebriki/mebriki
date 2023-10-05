@@ -19,8 +19,7 @@ I'm an ML engineer with 6 months of professional experience at Namla, and I'm cu
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">  <!-- Stats (Dark) -->
     <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=61dafb&bg_color=00000000&theme=apprentice&rank_icon=percentile&show_icons=true&ring_color=61dafb#gh-dark-mode-only" />
-  </a>  
-  
+  </a>
   <a href="https://git.io/streak-stats#gh-light-mode-only">  <!-- streak stats (light) -->
     <img src="https://streak-stats.demolab.com?user=iaminebriki&theme=swift&background=00000000&fire=00779A&currStreakNum=00779A&currStreakLabel=00779A#gh-light-mode-only" alt="GitHub Streak" />
   </a>
@@ -36,7 +35,6 @@ I'm an ML engineer with 6 months of professional experience at Namla, and I'm cu
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">  <!-- top langs (dark)-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&hide_border=true&theme=apprentice&layout=compact&langs_count=10#gh-dark-mode-only" />
   </a>
-  
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">  <!-- wakatime (light) -->
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&bg_color=00000000&hide_border=true&theme=swift&layout=compact&langs_count=10#gh-light-mode-only" />
   </a>
