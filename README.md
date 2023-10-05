@@ -30,7 +30,7 @@
 
 <!-- streak stats -->
 <a href="https://git.io/streak-stats#gh-light-mode-only">
-  <img src="https://streak-stats.demolab.com?user=iaminebriki&theme=algolia&dates=434d58&hide_border=true&background=00000000#gh-light-mode-only" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iaminebriki&theme=algolia&dates=434d58&stroke=434d58&hide_border=true&background=00000000#gh-light-mode-only" alt="GitHub Streak" />
 </a>
 <a href="https://git.io/streak-stats#gh-dark-mode-only">
   <img src="https://streak-stats.demolab.com?user=iaminebriki&theme=algolia&hide_border=true&background=00000000#gh-dark-mode-only" alt="GitHub Streak" />
