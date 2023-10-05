@@ -21,15 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&bg_color=00000000&theme=apprentice&show_icons=true#gh-dark-mode-only" />
 </a>
 
-<!-- top langs (light) -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&theme=swift&layout=compact&langs_count=10#gh-light-mode-only" />
-</a>
-<!-- top langs (dark)-->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&theme=apprentice&layout=compact&langs_count=10#gh-dark-mode-only" />
-</a>
-
 <!-- streak stats (light) -->
 <a href="https://git.io/streak-stats#gh-light-mode-only">
   <img src="https://streak-stats.demolab.com?user=iaminebriki&theme=swift&background=00000000#gh-light-mode-only" alt="GitHub Streak" />
@@ -37,6 +28,15 @@
 <!-- streak stats (dark) -->
 <a href="https://git.io/streak-stats#gh-dark-mode-only">
   <img src="https://streak-stats.demolab.com?user=iaminebriki&theme=apprentice&background=00000000#gh-dark-mode-only" alt="GitHub Streak" />
+</a>
+
+<!-- top langs (light) -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&theme=swift&layout=compact&langs_count=10#gh-light-mode-only" />
+</a>
+<!-- top langs (dark)-->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&theme=apprentice&layout=compact&langs_count=10#gh-dark-mode-only" />
 </a>
 
 <!-- wakatime (light) -->
