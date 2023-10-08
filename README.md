@@ -1,25 +1,10 @@
  # In progress ...
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=24EAE1&center=true&vCenter=true&width=435&lines=Hello+there!+;welcome+to+my+profile" alt="Typing SVG" /></a>
 
 <!-- # 🌐 Socials:
 Coursera and other profiles ... -->
-
-<!-- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="TensorFlow" height="30" width="40" src="assets\FullColorPrimary Icon.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-<div align="center">
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 ### Stack  
 <div align="center">
@@ -28,6 +13,18 @@ Coursera and other profiles ... -->
   </a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="TensorFlow" height="100"src="assets\FullColorPrimary Icon.svg"> 
+  <img align="center" alt="Rafa-Ts" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+<div align="center">
 
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,redux,java,cpp,py,firebase,mongodb,mysql,postman,netlify,vercel,figma" alt="skills logos" />
