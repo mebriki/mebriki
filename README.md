@@ -1,4 +1,7 @@
  # In progress ...
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=24EAE1&center=true&vCenter=true&width=435&lines=Hello+there!+;welcome+to+my+profile" alt="Typing SVG" /></a>
+
 <!-- # 🌐 Socials:
 Coursera and other profiles ... -->
 
