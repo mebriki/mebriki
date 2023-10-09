@@ -1,7 +1,7 @@
  # In progress ...
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=24EAE1&center=true&vCenter=true&width=435&lines=Hello+there!+;welcome+to+my+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=24EAE1&center=true&vCenter=true&width=435&lines=Hello+there!+;welcome+to+my+profile#gh-light-mode-only" alt="Typing SVG" /></a>
 
 <!-- # 🌐 Socials:
 Coursera and other profiles ... -->
@@ -15,7 +15,9 @@ Coursera and other profiles ... -->
 </div>
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="TensorFlow" height="100"src="assets\FullColorPrimary Icon.svg"> 
+  <img align="center" height="100" src="assets\pytorch-light.svg"> 
+  <img align="center" height="100" src="assets\tensorflow-light.svg"> 
+ 
   <img align="center" alt="Rafa-Ts" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
