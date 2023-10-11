@@ -10,7 +10,13 @@
   </a>
 </div>
 
-## 💻 Languages, Frameworks, and Tools
+## 🛠️ My set of Tools
+
+### 👨‍💻 Programming and Markup Languages
+
+### 🧰 Frameworks and Libraries
+### 🗄️ Databases and Cloud Hosting
+### 💻 Software and Tools
 
 <div>
   <!-- logos (light) -->
@@ -54,9 +60,8 @@
   <a href="https://www.figma.com#gh-dark-mode-only"> <img align="center" height="48" alt="Figma Dark logo" src="assets/Figma-Dark.svg#gh-dark-mode-only" /> </a>
 </div>
 
-
-<!-- ## Actively Learning -->
-
+## Actively Learning 
+.......
 
 ## My GitHub Stats 
 
@@ -69,20 +74,21 @@
 
 <br/>
 
-<div style="display: flex; text-align: center;">
-  <div style="flex: 1; margin-right: 10px;">
-    <!-- Stats (light) -->
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=00779A&bg_color=00000000&theme=swift&rank_icon=percentile&show_icons=true&ring_color=00779A#gh-light-mode-only" /> </a>
-    <!-- Stats (dark) -->
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=61dafb&bg_color=00000000&theme=apprentice&rank_icon=percentile&show_icons=true&ring_color=61dafb#gh-dark-mode-only" /> </a>
-  </div>
-    <div style="flex: 1;">
-    <!-- top langs (light) -->
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&hide_border=true&theme=swift&layout=compact&langs_count=10#gh-light-mode-only" /> </a>
-    <!-- top langs (dark) -->
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&hide_border=true&theme=apprentice&layout=compact&langs_count=10#gh-dark-mode-only" /> </a>
-  </div>
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  
+<br/>
+
+  <!-- Stats (light) -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> <img height="190" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=00779A&bg_color=00000000&theme=swift&rank_icon=percentile&show_icons=true&ring_color=00779A#gh-light-mode-only" /> </a>
+  <!-- Stats (dark) -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img height="190" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=61dafb&bg_color=00000000&theme=apprentice&rank_icon=percentile&show_icons=true&ring_color=61dafb#gh-dark-mode-only" /> </a>
+
+  <!-- top langs (light) -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&hide_border=true&theme=swift&layout=compact&langs_count=10#gh-light-mode-only" /> </a>
+  <!-- top langs (dark) -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&hide_border=true&theme=apprentice&layout=compact&langs_count=10#gh-dark-mode-only" /> </a>
+
 <div style="clear: both;"></div>
 <br/>
 
@@ -105,7 +111,7 @@
 <br/>
 
 <div>
-  <a> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iaminebriki&theme=react-dark&bg_color=00000000&hide_border=true" width="100%"/> </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img alt="iaminebriki's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iaminebriki&theme=react-dark&bg_color=00000000&hide_border=true" width="100%"/> </a>
 </div>
 
 
@@ -117,7 +123,11 @@
 <h4> <a href="https://github.com/iaminebriki?tab=repositories" title="Show Repositories">🔎 Show More 🔍 </a> </h4>
 </div>
 
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
 
+  <p><a href="https://holopin.io/@iaminebriki"><img src="https://holopin.me/iaminebriki" alt="@iaminebriki&#39;s Holopin board"></a></p>
+</details>
 
 <!--
 # ☕ About Me:
