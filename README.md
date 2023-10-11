@@ -74,22 +74,21 @@
 
 <br/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iaminebriki&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   
 <br/>
 
   <!-- Stats (light) -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> <img height="190" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=00779A&bg_color=00000000&theme=swift&rank_icon=percentile&show_icons=true&ring_color=00779A#gh-light-mode-only" /> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> <img height="90px" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=00779A&bg_color=00000000&theme=swift&rank_icon=percentile&show_icons=true&ring_color=00779A#gh-light-mode-only" /> </a>
   <!-- Stats (dark) -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img height="190" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=61dafb&bg_color=00000000&theme=apprentice&rank_icon=percentile&show_icons=true&ring_color=61dafb#gh-dark-mode-only" /> </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img height="90px" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&icon_color=61dafb&bg_color=00000000&theme=apprentice&rank_icon=percentile&show_icons=true&ring_color=61dafb#gh-dark-mode-only" /> </a>
   <!-- top langs (light) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&hide_border=true&theme=swift&layout=compact&langs_count=10#gh-light-mode-only" /> </a>
   <!-- top langs (dark) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminebriki&bg_color=00000000&hide_border=true&theme=apprentice&layout=compact&langs_count=10#gh-dark-mode-only" /> </a>
 
-<div style="clear: both;"></div>
+<!-- <div style="clear: both;"></div> -->
 <br/>
 
 <div style="display: flex; text-align: center;">
