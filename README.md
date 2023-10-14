@@ -11,11 +11,30 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg#gh-dark-mode-only"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=61dafb&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!;I am Amine from Algeria;MEng.+Biomedical+Informatics;Machine+Learning+Engineer;AI+for+Healthcare+Enthusiast;Always+learning..#gh-dark-mode-only" alt="Typing SVG" />  </a>
 </div> 
 
+<br><br>
+
 <!-- profile views -->
-<div align="right">
-  <img src="https://visitcount.itsvg.in/api?id=iaminebriki&label=Profile%20Views&color=0&icon=3&pretty=false" alt="Profile Views" />
+<div>
+  <img align="right" src="https://visitcount.itsvg.in/api?id=iaminebriki&label=Profile%20Views&color=0&icon=3&pretty=false" alt="Profile Views" />
+  <a href="https://twitter.com/hashtag/IStandWithPalestine"> <img align="left" src="IStandWithPalestine/IStandWithPalestine_light.svg#gh-light-mode-only" alt="IStandWithPalestine" /> </a>
+  <a href="https://twitter.com/hashtag/IStandWithPalestine"> <img align="left" src="IStandWithPalestine/IStandWithPalestine_dark.svg#gh-dark-mode-only" alt="IStandWithPalestine" /> </a>
 </div>
-<br/>
+<br><br>
+
+<div align="center">
+  <!-- linkedin (light) -->
+  <a href="https://linkedin.com/in/iaminebriki"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&logoWidth=14#gh-light-mode-only" /> </a>
+  <!-- linkedin (dark) -->
+  <a href="https://linkedin.com/in/iaminebriki"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&logoWidth=14#gh-dark-mode-only" /> </a>
+  <!-- x (light) -->
+  <a href="https://x.com/iaminebriki"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF&logoWidth=14#gh-light-mode-only" /> </a>
+  <!-- x (dark) -->
+  <a href="https://x.com/iaminebriki"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF&logoWidth=14#gh-dark-mode-only" /> </a>
+  <!-- gmail (light) -->
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&logoWidth=14#gh-light-mode-only" title="amine.16.briki@gmail.com" />
+  <!-- gmail (dark) -->
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&logoWidth=14#gh-dark-mode-only" title="amine.16.briki@gmail.com" />
+</div>
 
 ## 🛠️ My set of Tools
 
@@ -114,6 +133,8 @@
   <summary><h2>🏷️ Holopin Badges</h2></summary>
   <a href="https://holopin.io/@iaminebriki"> <img src="https://holopin.me/iaminebriki" alt="Holopin board" /> </a>
 </details>
+
+<br><br>
 
 <div align="center">
   <!-- closure (light) -->
