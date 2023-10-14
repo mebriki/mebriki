@@ -30,10 +30,6 @@
   <a href="https://x.com/iaminebriki#gh-light-mode-only"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF&logoWidth=14#gh-light-mode-only" /> </a>
   <!-- x (dark) -->
   <a href="https://x.com/iaminebriki#gh-dark-mode-only"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF&logoWidth=14#gh-dark-mode-only" /> </a>
-  <!-- gmail (light) -->
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&logoWidth=14#gh-light-mode-only" title="amine.16.briki@gmail.com" />
-  <!-- gmail (dark) -->
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&logoWidth=14#gh-dark-mode-only" title="amine.16.briki@gmail.com" />
 </div>
 
 ## 🛠️ My set of Tools
