@@ -16,20 +16,20 @@
 <!-- profile views -->
 <div>
   <img align="right" src="https://visitcount.itsvg.in/api?id=iaminebriki&label=Profile%20Views&color=0&icon=3&pretty=false" alt="Profile Views" />
-  <a href="https://twitter.com/hashtag/IStandWithPalestine"> <img align="left" src="IStandWithPalestine/IStandWithPalestine_light.svg#gh-light-mode-only" alt="IStandWithPalestine" /> </a>
-  <a href="https://twitter.com/hashtag/IStandWithPalestine"> <img align="left" src="IStandWithPalestine/IStandWithPalestine_dark.svg#gh-dark-mode-only" alt="IStandWithPalestine" /> </a>
+  <a href="https://twitter.com/hashtag/IStandWithPalestine#gh-light-mode-only"> <img align="left" src="assets/IStandWithPalestine/IStandWithPalestine_light.svg#gh-light-mode-only" alt="IStandWithPalestine" /> </a>
+  <a href="https://twitter.com/hashtag/IStandWithPalestine#gh-dark-mode-only"> <img align="left" src="assets/IStandWithPalestine/IStandWithPalestine_dark.svg#gh-dark-mode-only" alt="IStandWithPalestine" /> </a>
 </div>
 <br><br>
 
 <div align="center">
   <!-- linkedin (light) -->
-  <a href="https://linkedin.com/in/iaminebriki"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&logoWidth=14#gh-light-mode-only" /> </a>
+  <a href="https://linkedin.com/in/iaminebriki#gh-light-mode-only"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&logoWidth=14#gh-light-mode-only" /> </a>
   <!-- linkedin (dark) -->
-  <a href="https://linkedin.com/in/iaminebriki"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&logoWidth=14#gh-dark-mode-only" /> </a>
+  <a href="https://linkedin.com/in/iaminebriki#gh-dark-mode-only"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&logoWidth=14#gh-dark-mode-only" /> </a>
   <!-- x (light) -->
-  <a href="https://x.com/iaminebriki"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF&logoWidth=14#gh-light-mode-only" /> </a>
+  <a href="https://x.com/iaminebriki#gh-light-mode-only"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF&logoWidth=14#gh-light-mode-only" /> </a>
   <!-- x (dark) -->
-  <a href="https://x.com/iaminebriki"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF&logoWidth=14#gh-dark-mode-only" /> </a>
+  <a href="https://x.com/iaminebriki#gh-dark-mode-only"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF&logoWidth=14#gh-dark-mode-only" /> </a>
   <!-- gmail (light) -->
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&logoWidth=14#gh-light-mode-only" title="amine.16.briki@gmail.com" />
   <!-- gmail (dark) -->
@@ -40,44 +40,44 @@
 
 <div align="center">
   <!-- logos (light) -->
-  <a href="https://www.python.org#gh-light-mode-only"> <img align="center" height="48" alt="Python logo" src="assets/Python-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.r-project.org#gh-light-mode-only"> <img align="center" height="48" alt="R logo" src="assets/R-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.mathworks.com/products/matlab.html#gh-light-mode-only"> <img align="center" height="48" alt="MATLAB logo" src="assets/MATLAB-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.java.com#gh-light-mode-only"> <img align="center" height="48" alt="Java logo" src="assets/Java-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.mysql.com#gh-light-mode-only"> <img align="center" height="48" alt="MySQL logo" src="assets/MySQL-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.tensorflow.org#gh-light-mode-only"> <img align="center" height="48" alt="TensorFlow logo" src="assets/TensorFlow-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://pytorch.org#gh-light-mode-only"> <img align="center" height="48" alt="PyTorch logo" src="assets/PyTorch-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://flask.palletsprojects.com#gh-light-mode-only"> <img align="center" height="48" alt="Flask logo" src="assets/Flask.svg#gh-light-mode-only" /> </a>
-  <a href="https://git-scm.com#gh-light-mode-only"> <img align="center" height="48" alt="Git logo" src="assets/Git-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://github.com#gh-light-mode-only"> <img align="center" height="48" alt="GitHub logo" src="assets/GitHub-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://about.gitlab.com#gh-light-mode-only"> <img align="center" height="48" alt="GitLab logo" src="assets/GitLab-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.docker.com#gh-light-mode-only"> <img align="center" height="48" alt="Docker logo" src="assets/Docker-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://cloud.google.com#gh-light-mode-only"> <img align="center" height="48" alt="GCP logo" src="assets/GCP-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://azure.microsoft.com#gh-light-mode-only"> <img align="center" height="48" alt="Azure logo" src="assets/Azure-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://daringfireball.net/projects/markdown#gh-light-mode-only"> <img align="center" height="48" alt="Markdown logo" src="assets/Markdown-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.latex-project.org#gh-light-mode-only"> <img align="center" height="48" alt="LaTeX logo" src="assets/LaTeX-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://code.visualstudio.com#gh-light-mode-only"> <img align="center" height="48" alt="VSCode logo" src="assets/VSCode-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.figma.com#gh-light-mode-only"> <img align="center" height="48" alt="Figma logo" src="assets/Figma-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.python.org#gh-light-mode-only"> <img align="center" height="48" alt="Python logo" src="assets/logo/Python-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.r-project.org#gh-light-mode-only"> <img align="center" height="48" alt="R logo" src="assets/logo/R-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.mathworks.com/products/matlab.html#gh-light-mode-only"> <img align="center" height="48" alt="MATLAB logo" src="assets/logo/MATLAB-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.java.com#gh-light-mode-only"> <img align="center" height="48" alt="Java logo" src="assets/logo/Java-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.mysql.com#gh-light-mode-only"> <img align="center" height="48" alt="MySQL logo" src="assets/logo/MySQL-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.tensorflow.org#gh-light-mode-only"> <img align="center" height="48" alt="TensorFlow logo" src="assets/logo/TensorFlow-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://pytorch.org#gh-light-mode-only"> <img align="center" height="48" alt="PyTorch logo" src="assets/logo/PyTorch-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://flask.palletsprojects.com#gh-light-mode-only"> <img align="center" height="48" alt="Flask logo" src="assets/logo/Flask.svg#gh-light-mode-only" /> </a>
+  <a href="https://git-scm.com#gh-light-mode-only"> <img align="center" height="48" alt="Git logo" src="assets/logo/Git-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://github.com#gh-light-mode-only"> <img align="center" height="48" alt="GitHub logo" src="assets/logo/GitHub-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://about.gitlab.com#gh-light-mode-only"> <img align="center" height="48" alt="GitLab logo" src="assets/logo/GitLab-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.docker.com#gh-light-mode-only"> <img align="center" height="48" alt="Docker logo" src="assets/logo/Docker-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://cloud.google.com#gh-light-mode-only"> <img align="center" height="48" alt="GCP logo" src="assets/logo/GCP-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://azure.microsoft.com#gh-light-mode-only"> <img align="center" height="48" alt="Azure logo" src="assets/logo/Azure-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://daringfireball.net/projects/markdown#gh-light-mode-only"> <img align="center" height="48" alt="Markdown logo" src="assets/logo/Markdown-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.latex-project.org#gh-light-mode-only"> <img align="center" height="48" alt="LaTeX logo" src="assets/logo/LaTeX-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://code.visualstudio.com#gh-light-mode-only"> <img align="center" height="48" alt="VSCode logo" src="assets/logo/VSCode-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.figma.com#gh-light-mode-only"> <img align="center" height="48" alt="Figma logo" src="assets/logo/Figma-Light.svg#gh-light-mode-only" /> </a>
   
   <!-- logos (dark) -->
-  <a href="https://www.python.org#gh-dark-mode-only"> <img align="center" height="48" alt="Python logo" src="assets/Python-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.r-project.org#gh-dark-mode-only"> <img align="center" height="48" alt="R logo" src="assets/R-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.mathworks.com/products/matlab.html#gh-dark-mode-only"> <img align="center" height="48" alt="MATLAB logo" src="assets/MATLAB-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.java.com#gh-dark-mode-only"> <img align="center" height="48" alt="Java logo" src="assets/Java-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.mysql.com#gh-dark-mode-only"> <img align="center" height="48" alt="MySQL logo" src="assets/MySQL-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.tensorflow.org#gh-dark-mode-only"> <img align="center" height="48" alt="TensorFlow logo" src="assets/TensorFlow-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://pytorch.org#gh-dark-mode-only"> <img align="center" height="48" alt="PyTorch logo" src="assets/PyTorch-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://flask.palletsprojects.com#gh-dark-mode-only"> <img align="center" height="48" alt="Flask logo" src="assets/Flask.svg#gh-dark-mode-only" /> </a>
-  <a href="https://git-scm.com#gh-dark-mode-only"> <img align="center" height="48" alt="Git logo" src="assets/Git-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://github.com#gh-dark-mode-only"> <img align="center" height="48" alt="GitHub logo" src="assets/GitHub-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://about.gitlab.com#gh-dark-mode-only"> <img align="center" height="48" alt="GitLab logo" src="assets/GitLab-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.docker.com#gh-dark-mode-only"> <img align="center" height="48" alt="Docker logo" src="assets/Docker-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://cloud.google.com#gh-dark-mode-only"> <img align="center" height="48" alt="GCP logo" src="assets/GCP-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://azure.microsoft.com#gh-dark-mode-only"> <img align="center" height="48" alt="Azure logo" src="assets/Azure-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://daringfireball.net/projects/markdown#gh-dark-mode-only"> <img align="center" height="48" alt="Markdown logo" src="assets/Markdown-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.latex-project.org#gh-dark-mode-only"> <img align="center" height="48" alt="LaTeX logo" src="assets/LaTeX-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://code.visualstudio.com#gh-dark-mode-only"> <img align="center" height="48" alt="VSCode logo" src="assets/VSCode-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.figma.com#gh-dark-mode-only"> <img align="center" height="48" alt="Figma logo" src="assets/Figma-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.python.org#gh-dark-mode-only"> <img align="center" height="48" alt="Python logo" src="assets/logo/Python-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.r-project.org#gh-dark-mode-only"> <img align="center" height="48" alt="R logo" src="assets/logo/R-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.mathworks.com/products/matlab.html#gh-dark-mode-only"> <img align="center" height="48" alt="MATLAB logo" src="assets/logo/MATLAB-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.java.com#gh-dark-mode-only"> <img align="center" height="48" alt="Java logo" src="assets/logo/Java-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.mysql.com#gh-dark-mode-only"> <img align="center" height="48" alt="MySQL logo" src="assets/logo/MySQL-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.tensorflow.org#gh-dark-mode-only"> <img align="center" height="48" alt="TensorFlow logo" src="assets/logo/TensorFlow-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://pytorch.org#gh-dark-mode-only"> <img align="center" height="48" alt="PyTorch logo" src="assets/logo/PyTorch-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://flask.palletsprojects.com#gh-dark-mode-only"> <img align="center" height="48" alt="Flask logo" src="assets/logo/Flask.svg#gh-dark-mode-only" /> </a>
+  <a href="https://git-scm.com#gh-dark-mode-only"> <img align="center" height="48" alt="Git logo" src="assets/logo/Git-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://github.com#gh-dark-mode-only"> <img align="center" height="48" alt="GitHub logo" src="assets/logo/GitHub-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://about.gitlab.com#gh-dark-mode-only"> <img align="center" height="48" alt="GitLab logo" src="assets/logo/GitLab-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.docker.com#gh-dark-mode-only"> <img align="center" height="48" alt="Docker logo" src="assets/logo/Docker-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://cloud.google.com#gh-dark-mode-only"> <img align="center" height="48" alt="GCP logo" src="assets/logo/GCP-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://azure.microsoft.com#gh-dark-mode-only"> <img align="center" height="48" alt="Azure logo" src="assets/logo/Azure-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://daringfireball.net/projects/markdown#gh-dark-mode-only"> <img align="center" height="48" alt="Markdown logo" src="assets/logo/Markdown-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.latex-project.org#gh-dark-mode-only"> <img align="center" height="48" alt="LaTeX logo" src="assets/logo/LaTeX-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://code.visualstudio.com#gh-dark-mode-only"> <img align="center" height="48" alt="VSCode logo" src="assets/logo/VSCode-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.figma.com#gh-dark-mode-only"> <img align="center" height="48" alt="Figma logo" src="assets/logo/Figma-Dark.svg#gh-dark-mode-only" /> </a>
 </div>
 <br>
 
