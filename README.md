@@ -23,17 +23,17 @@
 
 <div align="center">
   <!-- linkedin (light)-->
-  <a href="https://linkedin.com/in/iamaminebriki#gh-light-mode-only" title="LinkedIn"> <img height=40 src="assets/socials-logo/LinkedIn-Light.svg#gh-light-mode-only" alt="LinkedIn-Badge" /> </a>
+  <a href="https://linkedin.com/in/iamaminebriki#gh-light-mode-only" title="Mohamed E. BRIKI"> <img height=20 src="assets/socials-logo/LinkedIn-Light.svg#gh-light-mode-only" alt="LinkedIn-Badge" /> </a>
   <!-- linkedin (dark)-->
-  <a href="https://linkedin.com/in/iamaminebriki#gh-dark-mode-only" title="LinkedIn"> <img height=40 src="assets/socials-logo/LinkedIn-Dark.svg#gh-dark-mode-only" alt="LinkedIn-Badge" /> </a>
+  <a href="https://linkedin.com/in/iamaminebriki#gh-dark-mode-only" title="Mohamed E. BRIKI"> <img height=20 src="assets/socials-logo/LinkedIn-Dark.svg#gh-dark-mode-only" alt="LinkedIn-Badge" /> </a>&nbsp;
   <!-- X (light)-->
-  <a href="https://x.com/iaminebriki#gh-light-mode-only" title="X"> <img height=40 src="assets/socials-logo/X-Light.svg#gh-light-mode-only" alt="X-Badge" /> </a>
+  <a href="https://x.com/iaminebriki#gh-light-mode-only" title="@iaminebriki"> <img height=20 src="assets/socials-logo/X-Light.svg#gh-light-mode-only" alt="X-Badge" /> </a>
   <!-- X (dark)-->
-  <a href="https://x.com/iaminebriki#gh-dark-mode-only" title="X"> <img height=40 src="assets/socials-logo/X-Dark.svg#gh-dark-mode-only" alt="X-Badge" /> </a>
+  <a href="https://x.com/iaminebriki#gh-dark-mode-only" title="@iaminebriki"> <img height=20 src="assets/socials-logo/X-Dark.svg#gh-dark-mode-only" alt="X-Badge" /> </a>&nbsp;
   <!-- website (light)-->
-  <a href="https://iaminebriki.tech#gh-light-mode-only" title="Visit my website 🌐"> <img height=40 src="assets/socials-logo/Mywebsite-Light.svg#gh-light-mode-only" alt="Website-Badge" /> </a>
+  <a href="https://iaminebriki.tech#gh-light-mode-only" title="iaminebriki.tech"> <img height=20 src="assets/socials-logo/Website-Light.svg#gh-light-mode-only" alt="Website-Badge" /> </a>
   <!-- website (dark)-->
-  <a href="https://iaminebriki.tech#gh-dark-mode-only" title="Visit my website 🌐"> <img height=40 src="assets/socials-logo/Mywebsite-Dark.svg#gh-dark-mode-only" alt="Website-Badge" /> </a>
+  <a href="https://iaminebriki.tech#gh-dark-mode-only" title="iaminebriki.tech"> <img height=20 src="assets/socials-logo/Website-Dark.svg#gh-dark-mode-only" alt="Website-Badge" /> </a>
 </div>
 
 ## 🛠️ Tech Stack
@@ -85,13 +85,13 @@
 
 ## 📊 Github Stats and Activity 
 
-<div align="center">  
-  <!-- trophies (light) -->
+<!-- <div align="center">  
+  <!-- trophies (light) 
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only"> <img src="https://github-profile-trophy.vercel.app/?username=iaminebriki&margin-w=2&no-bg=true&no-frame=true#gh-light-mode-only" alt="GitHub Trophies" /> </a>
-  <!-- trophies (dark) -->
+  <!-- trophies (dark) 
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only"> <img src="https://github-profile-trophy.vercel.app/?username=iaminebriki&theme=nord&margin-w=2&no-bg=true&no-frame=true#gh-dark-mode-only" alt="GitHub Trophies" /> </a>
 </div>
-<br>
+<br> -->
 
 <div align="center">
   <!-- Stats (light) -->
