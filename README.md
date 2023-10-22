@@ -23,17 +23,17 @@
 
 <div align="center">
   <!-- linkedin (light)-->
-  <a href="https://linkedin.com/in/iamaminebriki#gh-light-mode-only" title="LinkedIn"> <img height=35 src="assets/socials-logo/LinkedIn-Light.svg#gh-light-mode-only" alt="LinkedIn-Badge" /> </a>
+  <a href="https://linkedin.com/in/iamaminebriki#gh-light-mode-only" title="LinkedIn"> <img height=40 src="assets/socials-logo/LinkedIn-Light.svg#gh-light-mode-only" alt="LinkedIn-Badge" /> </a>
   <!-- linkedin (dark)-->
-  <a href="https://linkedin.com/in/iamaminebriki#gh-dark-mode-only" title="LinkedIn"> <img height=35 src="assets/socials-logo/LinkedIn-Dark.svg#gh-dark-mode-only" alt="LinkedIn-Badge" /> </a>
+  <a href="https://linkedin.com/in/iamaminebriki#gh-dark-mode-only" title="LinkedIn"> <img height=40 src="assets/socials-logo/LinkedIn-Dark.svg#gh-dark-mode-only" alt="LinkedIn-Badge" /> </a>
   <!-- X (light)-->
-  <a href="https://x.com/iaminebriki#gh-light-mode-only" title="X"> <img height=35 src="assets/socials-logo/X-Light.svg#gh-light-mode-only" alt="X-Badge" /> </a>
+  <a href="https://x.com/iaminebriki#gh-light-mode-only" title="X"> <img height=40 src="assets/socials-logo/X-Light.svg#gh-light-mode-only" alt="X-Badge" /> </a>
   <!-- X (dark)-->
-  <a href="https://x.com/iaminebriki#gh-dark-mode-only" title="X"> <img height=35 src="assets/socials-logo/X-Dark.svg#gh-dark-mode-only" alt="X-Badge" /> </a>
+  <a href="https://x.com/iaminebriki#gh-dark-mode-only" title="X"> <img height=40 src="assets/socials-logo/X-Dark.svg#gh-dark-mode-only" alt="X-Badge" /> </a>
   <!-- website (light)-->
-  <a href="https://iaminebriki.tech#gh-light-mode-only" title="Visit my website 🌐"> <img height=35 src="assets/socials-logo/Mywebsite-Light.svg#gh-light-mode-only" alt="Website-Badge" /> </a>
+  <a href="https://iaminebriki.tech#gh-light-mode-only" title="Visit my website 🌐"> <img height=40 src="assets/socials-logo/Mywebsite-Light.svg#gh-light-mode-only" alt="Website-Badge" /> </a>
   <!-- website (dark)-->
-  <a href="https://iaminebriki.tech#gh-dark-mode-only" title="Visit my website 🌐"> <img height=35 src="assets/socials-logo/Mywebsite-Dark.svg#gh-dark-mode-only" alt="Website-Badge" /> </a>
+  <a href="https://iaminebriki.tech#gh-dark-mode-only" title="Visit my website 🌐"> <img height=40 src="assets/socials-logo/Mywebsite-Dark.svg#gh-dark-mode-only" alt="Website-Badge" /> </a>
 </div>
 
 ## 🛠️ Tech Stack
@@ -48,7 +48,7 @@
   <a href="https://numpy.org#gh-light-mode-only" title="NumPy"> <img align="center" height="48" alt="NumPy logo" src="assets/logo/NumPy-Light.svg#gh-light-mode-only" /> </a>
   <a href="https://www.tensorflow.org#gh-light-mode-only" title="TensorFlow"> <img align="center" height="48" alt="TensorFlow logo" src="assets/logo/TensorFlow-Light.svg#gh-light-mode-only" /> </a>
   <a href="https://pytorch.org#gh-light-mode-only" title="PyTorch"> <img align="center" height="48" alt="PyTorch logo" src="assets/logo/PyTorch-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://flask.palletsprojects.com#gh-light-mode-only" title="Flask"> <img align="center" height="48" alt="Flask logo" src="assets/logo/Flask.svg#gh-light-mode-only" /> </a>
+  <a href="https://flask.palletsprojects.com#gh-light-mode-only" title="Flask"> <img align="center" height="48" alt="Flask logo" src="assets/logo/Flask-Light.svg#gh-light-mode-only" /> </a>
   <a href="https://git-scm.com#gh-light-mode-only" title="Git"> <img align="center" height="48" alt="Git logo" src="assets/logo/Git-Light.svg#gh-light-mode-only" /> </a>
   <a href="https://github.com#gh-light-mode-only" title="GitHub"> <img align="center" height="48" alt="GitHub logo" src="assets/logo/GitHub-Light.svg#gh-light-mode-only" /> </a>
   <a href="https://about.gitlab.com#gh-light-mode-only" title="GitLab"> <img align="center" height="48" alt="GitLab logo" src="assets/logo/GitLab-Light.svg#gh-light-mode-only" /> </a>
@@ -69,7 +69,7 @@
   <a href="https://numpy.org#gh-dark-mode-only" title="NumPy"> <img align="center" height="48" alt="NumPy logo" src="assets/logo/NumPy-Dark.svg#gh-dark-mode-only" /> </a>
   <a href="https://www.tensorflow.org#gh-dark-mode-only" title="TensorFlow"> <img align="center" height="48" alt="TensorFlow logo" src="assets/logo/TensorFlow-Dark.svg#gh-dark-mode-only" /> </a>
   <a href="https://pytorch.org#gh-dark-mode-only" title="PyTorch"> <img align="center" height="48" alt="PyTorch logo" src="assets/logo/PyTorch-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://flask.palletsprojects.com#gh-dark-mode-only" title="Flask"> <img align="center" height="48" alt="Flask logo" src="assets/logo/Flask.svg#gh-dark-mode-only" /> </a>
+  <a href="https://flask.palletsprojects.com#gh-dark-mode-only" title="Flask"> <img align="center" height="48" alt="Flask logo" src="assets/logo/Flask-Dark.svg#gh-dark-mode-only" /> </a>
   <a href="https://git-scm.com#gh-dark-mode-only" title="Git"> <img align="center" height="48" alt="Git logo" src="assets/logo/Git-Dark.svg#gh-dark-mode-only" /> </a>
   <a href="https://github.com#gh-dark-mode-only" title="GitHub"> <img align="center" height="48" alt="GitHub logo" src="assets/logo/GitHub-Dark.svg#gh-dark-mode-only" /> </a>
   <a href="https://about.gitlab.com#gh-dark-mode-only" title="GitLab"> <img align="center" height="48" alt="GitLab logo" src="assets/logo/GitLab-Dark.svg#gh-dark-mode-only" /> </a>
