@@ -95,7 +95,7 @@
 
 <div align="center">
   <!-- Stats (light) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> <img width="408px" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&custom_title=My%20Contributions&title_color=00779A&icon_color=00779A&bg_color=00000000&theme=swift&show_icons=true&ring_color=00779A#gh-light-mode-only" alt="GitHub Stats" /> </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> <img width="409px" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&custom_title=My%20Contributions&title_color=00779A&icon_color=00779A&bg_color=00000000&theme=swift&show_icons=true&ring_color=00779A#gh-light-mode-only" alt="GitHub Stats" /> </a>
   <!-- Stats (dark) -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img width="421px" src="https://github-readme-stats.vercel.app/api?username=iaminebriki&custom_title=My%20Contributions&title_color=61DAFB&icon_color=61dafb&bg_color=00000000&theme=apprentice&text_color=ffffff&show_icons=true&ring_color=61dafb#gh-dark-mode-only" alt="GitHub Stats" /> </a>
   <!-- streak stats (light) -->
