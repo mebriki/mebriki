@@ -101,7 +101,7 @@
   <!-- streak stats (light) -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only"> <img width="442px" src="https://streak-stats.demolab.com?user=iaminebriki&theme=swift&background=00000000&fire=00779A&currStreakNum=00779A&currStreakLabel=00779A#gh-light-mode-only" alt="GitHub Streak" /> </a>
   <!-- streak stats (dark) -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only"> <img width="441px" src="https://streak-stats.demolab.com?user=iaminebriki&theme=apprentice&background=00000000&fire=61DAFB&currStreakNum=61DAFB&currStreakLabel=61DAFB#gh-dark-mode-only" alt="GitHub Streak" /> </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only"> <img width="450px" src="https://streak-stats.demolab.com?user=iaminebriki&theme=apprentice&background=00000000&fire=61DAFB&currStreakNum=61DAFB&currStreakLabel=61DAFB#gh-dark-mode-only" alt="GitHub Streak" /> </a>
 </div>
 <div align="center">
   <!-- top langs (light) -->
