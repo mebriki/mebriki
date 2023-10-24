@@ -6,9 +6,9 @@
 
 <div align="center">
   <!-- intro (light) -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg#gh-light-mode-only"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00779A&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!;I am Amine from Algeria;MEng.+Biomedical+Informatics;Machine+Learning+Engineer;AI+for+Healthcare+Enthusiast;Always+learning..#gh-light-mode-only" alt="Typing SVG" /> </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg#gh-light-mode-only"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00779A&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!;I am Amine from Algeria;Machine+Learning+Engineer;AI+for+Healthcare+Enthusiast;Welcome+to+my+Profile#gh-light-mode-only" alt="Typing SVG" /> </a>
   <!-- intro (dark) -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg#gh-dark-mode-only"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=61dafb&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!;I am Amine from Algeria;MEng.+Biomedical+Informatics;Machine+Learning+Engineer;AI+for+Healthcare+Enthusiast;Always+learning..#gh-dark-mode-only" alt="Typing SVG" />  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg#gh-dark-mode-only"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=61dafb&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!;I am Amine from Algeria;Machine+Learning+Engineer;AI+for+Healthcare+Enthusiast;Welcome+to+my+Profile#gh-dark-mode-only" alt="Typing SVG" />  </a>
 </div> 
 
 <br><br>
