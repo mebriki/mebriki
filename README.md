@@ -6,9 +6,9 @@
 
 <div align="center">
   <!-- intro (light) -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg#gh-light-mode-only"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00779A&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!;I am Amine from Algeria;Machine+Learning+Engineer;AI+for+Healthcare+Enthusiast;Welcome+to+my+Profile#gh-light-mode-only" alt="Typing SVG" /> </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg#gh-light-mode-only"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00779A&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!;I am Amine from Algeria;Machine+Learning+Engineer;Freelancer;AI+for+Healthcare+Enthusiast;Welcome+to+my+Profile#gh-light-mode-only" alt="Typing SVG" /> </a>
   <!-- intro (dark) -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg#gh-dark-mode-only"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=61dafb&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!;I am Amine from Algeria;Machine+Learning+Engineer;AI+for+Healthcare+Enthusiast;Welcome+to+my+Profile#gh-dark-mode-only" alt="Typing SVG" />  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg#gh-dark-mode-only"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=61dafb&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!;I am Amine from Algeria;Machine+Learning+Engineer;Freelancer;AI+for+Healthcare+Enthusiast;Welcome+to+my+Profile#gh-dark-mode-only" alt="Typing SVG" />  </a>
 </div> 
 
 <br><br>
@@ -40,46 +40,70 @@
 
 <div align="center">
   <!-- logos (light) -->
-  <a href="https://www.python.org#gh-light-mode-only" title="Python"> <img align="center" height="48" alt="Python logo" src="assets/logo/Python-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.r-project.org#gh-light-mode-only" title="R"> <img align="center" height="48" alt="R logo" src="assets/logo/R-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.mathworks.com/products/matlab.html#gh-light-mode-only" title="MATLAB"> <img align="center" height="48" alt="MATLAB logo" src="assets/logo/MATLAB-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.java.com#gh-light-mode-only" title="Java"> <img align="center" height="48" alt="Java logo" src="assets/logo/Java-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.mysql.com#gh-light-mode-only" title="MySQL"> <img align="center" height="48" alt="MySQL logo" src="assets/logo/MySQL-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://numpy.org#gh-light-mode-only" title="NumPy"> <img align="center" height="48" alt="NumPy logo" src="assets/logo/NumPy-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.tensorflow.org#gh-light-mode-only" title="TensorFlow"> <img align="center" height="48" alt="TensorFlow logo" src="assets/logo/TensorFlow-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://pytorch.org#gh-light-mode-only" title="PyTorch"> <img align="center" height="48" alt="PyTorch logo" src="assets/logo/PyTorch-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://flask.palletsprojects.com#gh-light-mode-only" title="Flask"> <img align="center" height="48" alt="Flask logo" src="assets/logo/Flask-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://git-scm.com#gh-light-mode-only" title="Git"> <img align="center" height="48" alt="Git logo" src="assets/logo/Git-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://github.com#gh-light-mode-only" title="GitHub"> <img align="center" height="48" alt="GitHub logo" src="assets/logo/GitHub-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://about.gitlab.com#gh-light-mode-only" title="GitLab"> <img align="center" height="48" alt="GitLab logo" src="assets/logo/GitLab-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.docker.com#gh-light-mode-only" title="Docker"> <img align="center" height="48" alt="Docker logo" src="assets/logo/Docker-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://cloud.google.com#gh-light-mode-only" title="Google Cloud"> <img align="center" height="48" alt="GCP logo" src="assets/logo/GCP-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://azure.microsoft.com#gh-light-mode-only" title="Azure"> <img align="center" height="48" alt="Azure logo" src="assets/logo/Azure-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://daringfireball.net/projects/markdown#gh-light-mode-only" title="Markdown"> <img align="center" height="48" alt="Markdown logo" src="assets/logo/Markdown-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.latex-project.org#gh-light-mode-only" title="LaTeX"> <img align="center" height="48" alt="LaTeX logo" src="assets/logo/LaTeX-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://code.visualstudio.com#gh-light-mode-only" title="VSCode"> <img align="center" height="48" alt="VSCode logo" src="assets/logo/VSCode-Light.svg#gh-light-mode-only" /> </a>
-  <a href="https://www.figma.com#gh-light-mode-only" title="Figma"> <img align="center" height="48" alt="Figma logo" src="assets/logo/Figma-Light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.python.org#gh-light-mode-only" title="Python"> <img align="center" height="48" alt="Python logo" src="assets/logo/python-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.r-project.org#gh-light-mode-only" title="R"> <img align="center" height="48" alt="R logo" src="assets/logo/r-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.mathworks.com/products/matlab.html#gh-light-mode-only" title="MATLAB"> <img align="center" height="48" alt="MATLAB logo" src="assets/logo/matlab-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.java.com#gh-light-mode-only" title="Java"> <img align="center" height="48" alt="Java logo" src="assets/logo/java-light.svg#gh-light-mode-only" /> </a>
+
+  <a href="https://numpy.org#gh-light-mode-only" title="NumPy"> <img align="center" height="48" alt="NumPy logo" src="assets/logo/numpy-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://pandas.pydata.org#gh-light-mode-only" title="Pandas"> <img align="center" height="48" alt="Pandas logo" src="assets/logo/pandas-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://plotly.com#gh-light-mode-only" title="Plotly"> <img align="center" height="48" alt="Plotly logo" src="assets/logo/plotly-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://matplotlib.org#gh-light-mode-only" title="Matplotlib"> <img align="center" height="48" alt="Matplotlib logo" src="assets/logo/matplotlib-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://scikit-learn.org#gh-light-mode-only" title="scikit-learn"> <img align="center" height="48" alt="scikit-learn logo" src="assets/logo/scikit-learn-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://keras.io#gh-light-mode-only" title="Keras"> <img align="center" height="48" alt="Keras logo" src="assets/logo/keras-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.tensorflow.org#gh-light-mode-only" title="TensorFlow"> <img align="center" height="48" alt="TensorFlow logo" src="assets/logo/tensorflow-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://pytorch.org#gh-light-mode-only" title="PyTorch"> <img align="center" height="48" alt="PyTorch logo" src="assets/logo/pytorch-light.svg#gh-light-mode-only" /> </a>
+
+  <a href="https://www.mysql.com#gh-light-mode-only" title="MySQL"> <img align="center" height="48" alt="MySQL logo" src="assets/logo/mysql-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://flask.palletsprojects.com#gh-light-mode-only" title="Flask"> <img align="center" height="48" alt="Flask logo" src="assets/logo/flask-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://streamlit.io#gh-light-mode-only" title="Streamlit"> <img align="center" height="48" alt="Streamlit logo" src="assets/logo/streamlit-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://git-scm.com#gh-light-mode-only" title="Git"> <img align="center" height="48" alt="Git logo" src="assets/logo/git-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://github.com#gh-light-mode-only" title="GitHub"> <img align="center" height="48" alt="GitHub logo" src="assets/logo/github-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://about.gitlab.com#gh-light-mode-only" title="GitLab"> <img align="center" height="48" alt="GitLab logo" src="assets/logo/gitlab-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.docker.com#gh-light-mode-only" title="Docker"> <img align="center" height="48" alt="Docker logo" src="assets/logo/docker-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://cloud.google.com#gh-light-mode-only" title="Google Cloud"> <img align="center" height="48" alt="GCP logo" src="assets/logo/gcp-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://azure.microsoft.com#gh-light-mode-only" title="Azure"> <img align="center" height="48" alt="Azure logo" src="assets/logo/azure-light.svg#gh-light-mode-only" /> </a>
+
+  <a href="https://daringfireball.net/projects/markdown#gh-light-mode-only" title="Markdown"> <img align="center" height="48" alt="Markdown logo" src="assets/logo/markdown-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.latex-project.org#gh-light-mode-only" title="LaTeX"> <img align="center" height="48" alt="LaTeX logo" src="assets/logo/latex-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://colab.research.google.com#gh-light-mode-only" title="Colab"> <img align="center" height="48" alt="Colab logo" src="assets/logo/colab-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://jupyter.org#gh-light-mode-only" title="Jupyter"> <img align="center" height="48" alt="Jupyter logo" src="assets/logo/jupyter-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.jetbrains.com/pycharm#gh-light-mode-only" title="PyCharm"> <img align="center" height="48" alt="PyCharm logo" src="assets/logo/pycharm-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://code.visualstudio.com#gh-light-mode-only" title="VSCode"> <img align="center" height="48" alt="VSCode logo" src="assets/logo/vscode-light.svg#gh-light-mode-only" /> </a>
+  <a href="https://www.figma.com#gh-light-mode-only" title="Figma"> <img align="center" height="48" alt="Figma logo" src="assets/logo/figma-light.svg#gh-light-mode-only" /> </a>
   
   <!-- logos (dark) -->
-  <a href="https://www.python.org#gh-dark-mode-only" title="Python"> <img align="center" height="48" alt="Python logo" src="assets/logo/Python-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.r-project.org#gh-dark-mode-only" title="R"> <img align="center" height="48" alt="R logo" src="assets/logo/R-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.mathworks.com/products/matlab.html#gh-dark-mode-only" title="MATLAB"> <img align="center" height="48" alt="MATLAB logo" src="assets/logo/MATLAB-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.java.com#gh-dark-mode-only" title="Java"> <img align="center" height="48" alt="Java logo" src="assets/logo/Java-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.mysql.com#gh-dark-mode-only" title="MySQL"> <img align="center" height="48" alt="MySQL logo" src="assets/logo/MySQL-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://numpy.org#gh-dark-mode-only" title="NumPy"> <img align="center" height="48" alt="NumPy logo" src="assets/logo/NumPy-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.tensorflow.org#gh-dark-mode-only" title="TensorFlow"> <img align="center" height="48" alt="TensorFlow logo" src="assets/logo/TensorFlow-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://pytorch.org#gh-dark-mode-only" title="PyTorch"> <img align="center" height="48" alt="PyTorch logo" src="assets/logo/PyTorch-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://flask.palletsprojects.com#gh-dark-mode-only" title="Flask"> <img align="center" height="48" alt="Flask logo" src="assets/logo/Flask-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://git-scm.com#gh-dark-mode-only" title="Git"> <img align="center" height="48" alt="Git logo" src="assets/logo/Git-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://github.com#gh-dark-mode-only" title="GitHub"> <img align="center" height="48" alt="GitHub logo" src="assets/logo/GitHub-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://about.gitlab.com#gh-dark-mode-only" title="GitLab"> <img align="center" height="48" alt="GitLab logo" src="assets/logo/GitLab-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.docker.com#gh-dark-mode-only" title="Docker"> <img align="center" height="48" alt="Docker logo" src="assets/logo/Docker-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://cloud.google.com#gh-dark-mode-only" title="Google Cloud"> <img align="center" height="48" alt="GCP logo" src="assets/logo/GCP-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://azure.microsoft.com#gh-dark-mode-only" title="Azure"> <img align="center" height="48" alt="Azure logo" src="assets/logo/Azure-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://daringfireball.net/projects/markdown#gh-dark-mode-only" title="Markdown"> <img align="center" height="48" alt="Markdown logo" src="assets/logo/Markdown-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.latex-project.org#gh-dark-mode-only" title="LaTeX"> <img align="center" height="48" alt="LaTeX logo" src="assets/logo/LaTeX-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://code.visualstudio.com#gh-dark-mode-only" title="VSCode"> <img align="center" height="48" alt="VSCode logo" src="assets/logo/VSCode-Dark.svg#gh-dark-mode-only" /> </a>
-  <a href="https://www.figma.com#gh-dark-mode-only" title="Figma"> <img align="center" height="48" alt="Figma logo" src="assets/logo/Figma-Dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.python.org#gh-dark-mode-only" title="Python"> <img align="center" height="48" alt="Python logo" src="assets/logo/python-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.r-project.org#gh-dark-mode-only" title="R"> <img align="center" height="48" alt="R logo" src="assets/logo/r-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.mathworks.com/products/matlab.html#gh-dark-mode-only" title="MATLAB"> <img align="center" height="48" alt="MATLAB logo" src="assets/logo/matlab-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.java.com#gh-dark-mode-only" title="Java"> <img align="center" height="48" alt="Java logo" src="assets/logo/java-dark.svg#gh-dark-mode-only" /> </a>
+
+  <a href="https://numpy.org#gh-dark-mode-only" title="NumPy"> <img align="center" height="48" alt="NumPy logo" src="assets/logo/numpy-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://pandas.pydata.org#gh-dark-mode-only" title="Pandas"> <img align="center" height="48" alt="Pandas logo" src="assets/logo/pandas-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://plotly.com#gh-dark-mode-only" title="Plotly"> <img align="center" height="48" alt="Plotly logo" src="assets/logo/plotly-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://matplotlib.org#gh-dark-mode-only" title="Matplotlib"> <img align="center" height="48" alt="Matplotlib logo" src="assets/logo/matplotlib-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://scikit-learn.org#gh-dark-mode-only" title="scikit-learn"> <img align="center" height="48" alt="scikit-learn logo" src="assets/logo/scikit-learn-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://keras.io#gh-dark-mode-only" title="Keras"> <img align="center" height="48" alt="Keras logo" src="assets/logo/keras-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.tensorflow.org#gh-dark-mode-only" title="TensorFlow"> <img align="center" height="48" alt="TensorFlow logo" src="assets/logo/tensorflow-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://pytorch.org#gh-dark-mode-only" title="PyTorch"> <img align="center" height="48" alt="PyTorch logo" src="assets/logo/pytorch-dark.svg#gh-dark-mode-only" /> </a>
+
+  <a href="https://www.mysql.com#gh-dark-mode-only" title="MySQL"> <img align="center" height="48" alt="MySQL logo" src="assets/logo/mysql-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://flask.palletsprojects.com#gh-dark-mode-only" title="Flask"> <img align="center" height="48" alt="Flask logo" src="assets/logo/flask-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://streamlit.io#gh-dark-mode-only" title="Streamlit"> <img align="center" height="48" alt="Streamlit logo" src="assets/logo/streamlit-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://git-scm.com#gh-dark-mode-only" title="Git"> <img align="center" height="48" alt="Git logo" src="assets/logo/git-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://github.com#gh-dark-mode-only" title="GitHub"> <img align="center" height="48" alt="GitHub logo" src="assets/logo/github-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://about.gitlab.com#gh-dark-mode-only" title="GitLab"> <img align="center" height="48" alt="GitLab logo" src="assets/logo/gitlab-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.docker.com#gh-dark-mode-only" title="Docker"> <img align="center" height="48" alt="Docker logo" src="assets/logo/docker-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://cloud.google.com#gh-dark-mode-only" title="Google Cloud"> <img align="center" height="48" alt="GCP logo" src="assets/logo/gcp-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://azure.microsoft.com#gh-dark-mode-only" title="Azure"> <img align="center" height="48" alt="Azure logo" src="assets/logo/azure-dark.svg#gh-dark-mode-only" /> </a>
+
+  <a href="https://daringfireball.net/projects/markdown#gh-dark-mode-only" title="Markdown"> <img align="center" height="48" alt="Markdown logo" src="assets/logo/markdown-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.latex-project.org#gh-dark-mode-only" title="LaTeX"> <img align="center" height="48" alt="LaTeX logo" src="assets/logo/latex-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://colab.research.google.com#gh-dark-mode-only" title="Colab"> <img align="center" height="48" alt="Colab logo" src="assets/logo/colab-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://jupyter.org#gh-dark-mode-only" title="Jupyter"> <img align="center" height="48" alt="Jupyter logo" src="assets/logo/jupyter-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.jetbrains.com/pycharm#gh-dark-mode-only" title="PyCharm"> <img align="center" height="48" alt="PyCharm logo" src="assets/logo/pycharm-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://code.visualstudio.com#gh-dark-mode-only" title="VSCode"> <img align="center" height="48" alt="VSCode logo" src="assets/logo/vscode-dark.svg#gh-dark-mode-only" /> </a>
+  <a href="https://www.figma.com#gh-dark-mode-only" title="Figma"> <img align="center" height="48" alt="Figma logo" src="assets/logo/figma-dark.svg#gh-dark-mode-only" /> </a>
 </div>
 <br>
 
