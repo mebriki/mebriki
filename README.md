@@ -15,7 +15,7 @@
 
 <!-- profile views -->
 <div>
-  <img align="right" src="https://visitcount.itsvg.in/api?id=iaminebriki&label=Profile%20Views&color=0&icon=3&pretty=false" alt="Profile Views" />
+  <img align="right" src="https://visitcount.itsvg.in/api?id=iaminebriki&label=Profile%20Views&color=0&icon=3&pretty=true" alt="Profile Views" />
   <a href="https://twitter.com/hashtag/IStandWithPalestine#gh-light-mode-only"> <img align="left" src="assets/IStandWithPalestine/IStandWithPalestine_light.svg#gh-light-mode-only" alt="IStandWithPalestine" /> </a>
   <a href="https://twitter.com/hashtag/IStandWithPalestine#gh-dark-mode-only" title="#IStandWithPalestine hashtag on Twitter"> <img align="left" src="assets/IStandWithPalestine/IStandWithPalestine_dark.svg#gh-dark-mode-only" alt="IStandWithPalestine" /> </a>
 </div>
