@@ -142,27 +142,27 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iaminebriki&title_color=61DAFB&bg_color=00000000&text_color=ffffff&hide_border=true&layout=compact&langs_count=8#gh-dark-mode-only" alt="Wakatime Stats" /> </a>
 </div>
 
-<div align="center">
+<!-- <div align="center"> -->
   <!-- activity graph (light) -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only"> <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=iaminebriki&color=000000&bg_color=00000000&custom_title=My%20Contributions%20Graph&title_color=00779a&line=00779a&hide_border=true#gh-light-mode-only" alt="Activity Graph" /> </a>
+  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only"> <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=iaminebriki&color=000000&bg_color=00000000&custom_title=My%20Contributions%20Graph&title_color=00779a&line=00779a&hide_border=true#gh-light-mode-only" alt="Activity Graph" /> </a> -->
   <!-- activity graph (dark) -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only"> <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=iaminebriki&color=ffffff&bg_color=00000000&custom_title=My%20Contributions%20Graph&title_color=61DAFB&line=61DAFB&point=ffffff&hide_border=true#gh-dark-mode-only" alt="Activity Graph" /> </a>
-</div>
+  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only"> <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=iaminebriki&color=ffffff&bg_color=00000000&custom_title=My%20Contributions%20Graph&title_color=61DAFB&line=61DAFB&point=ffffff&hide_border=true#gh-dark-mode-only" alt="Activity Graph" /> </a> -->
+<!-- </div> -->
 
-## 👨‍💻 Some of my work 
+<!-- ## 👨‍💻 Some of my work  -->
  <!-- repo pins (light) -->
-<div align="center">
-  <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM#gh-light-mode-only" title="Breast cancer classification with VGG-16"><img src="https://github-readme-stats.vercel.app/api/pin?username=iaminebriki&repo=Breast-Cancer-Classification-with-VGG16-and-SVM&theme=swift&bg_color=00000000&title_color=00779A&border_color=00779a&border_radius=50&icon_color=00779A#gh-light-mode-only" alt="Repo Pin" /> </a>
+<!-- <div align="center">
+  <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM#gh-light-mode-only" title="Breast cancer classification with VGG-16"><img src="https://github-readme-stats.vercel.app/api/pin?username=iaminebriki&repo=Breast-Cancer-Classification-with-VGG16-and-SVM&theme=swift&bg_color=00000000&title_color=00779A&border_color=00779a&border_radius=50&icon_color=00779A#gh-light-mode-only" alt="Repo Pin" /> </a> -->
 
   <!-- repo pins (dark) -->
-  <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM#gh-dark-mode-only" title="Breast cancer classification with VGG-16"><img src="https://github-readme-stats.vercel.app/api/pin?username=iaminebriki&repo=Breast-Cancer-Classification-with-VGG16-and-SVM&theme=apprentice&bg_color=00000000&text_color=ffffff&title_color=61dafb&border_color=61dafb&border_radius=50&icon_color=61dafb#gh-dark-mode-only" alt="Repo Pin" /> </a>
+  <!-- <a href="https://github.com/iaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM#gh-dark-mode-only" title="Breast cancer classification with VGG-16"><img src="https://github-readme-stats.vercel.app/api/pin?username=iaminebriki&repo=Breast-Cancer-Classification-with-VGG16-and-SVM&theme=apprentice&bg_color=00000000&text_color=ffffff&title_color=61dafb&border_color=61dafb&border_radius=50&icon_color=61dafb#gh-dark-mode-only" alt="Repo Pin" /> </a>
 <h4> <a href="https://github.com/iaminebriki?tab=repositories" title="Show Repositories">🔎 Show More </a> </h4>
-</div>
+</div> -->
 
-<details> 
+<!-- <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
   <a href="https://holopin.io/@iaminebriki"> <img src="https://holopin.me/iaminebriki" alt="Holopin board" /> </a>
-</details>
+</details> -->
 
 <br><br>
 
