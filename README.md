@@ -34,6 +34,9 @@
 </div>
 
 <br>
-<a href="https://holopin.io/@iaminebriki"> <img src="https://holopin.me/iaminebriki" alt="Holopin board" /> </a>
+<details> 
+  <summary><h2>Badges Wall 🖼️</h2></summary>
+  <a href="https://holopin.io/@iaminebriki"> <img src="https://holopin.me/iaminebriki" alt="Holopin board" /> </a>
+</details>
 
 
