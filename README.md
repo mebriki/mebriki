@@ -35,7 +35,7 @@
 
 <br>
 
-## 🛠️ ML Stack
+## ML Stack 🤖
 <div align="center">
   <!-- logos (light) -->
   <a href="https://www.python.org#gh-light-mode-only" title="Python"> <img align="center" height="48" alt="Python logo" src="assets/logo/python_light.svg#gh-light-mode-only" /> </a>
