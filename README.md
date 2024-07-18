@@ -31,7 +31,7 @@
 ## Me in a few lines ✍️
 > Currently ML Engineer @wessini
 * <h4> Self-taught ML Engineer </h4>
-* <h4> MSc. Biomedical Informatics from [University of Tlemcen](https://ft.univ-tlemcen.dz/)</h4>
+* <h4> MSc. Biomedical Informatics from <a href="https://ft.univ-tlemcen.dz/">University of Tlemcen</a></h4>
 * <h4> Interested in applying Deep Learning for Medical Research </h4>
 <br>
 
