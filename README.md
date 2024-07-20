@@ -1,13 +1,11 @@
 <div>
-  <!-- header_light -->
+  <!-- header -->
   <a href="https://github.com/kyechan99/capsule-render#gh-light-mode-only"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00779A&height=70&section=header#gh-light-mode-only" alt="header_img" /> </a>
-  <!-- header_dark -->
   <a href="https://github.com/kyechan99/capsule-render#gh-dark-mode-only"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=70&section=header#gh-dark-mode-only" alt="header_img" /> </a> 
 
 <div align="right">
-  <!-- ps_light -->
+  <!-- PS -->
   <a href="https://x.com/hashtag/IStandWithPalestine#gh-light-mode-only" title="#IStandWithPalestine @X"> <img src="assets/istandwithpalestine/istandwithpalestine_light.svg#gh-light-mode-only" alt="istandwithpalestine" /> </a>
-  <!-- ps_dark -->
   <a href="https://x.com/hashtag/IStandWithPalestine#gh-dark-mode-only" title="#IStandWithPalestine @X"> <img src="assets/istandwithpalestine/istandwithpalestine_dark.svg#gh-dark-mode-only" alt="istandwithpalestine" /> </a>
   </div>
 
